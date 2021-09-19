@@ -118,8 +118,6 @@ else
         <span id="footer">
             <div id="logo" class="hand">
                 <div class="slogan">
-
-                <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.koi-writer.com&amp;layout=box_count&amp;show_faces=false&amp;width=80&amp;action=recommend&amp;font=tahoma&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:65px;" allowTransparency="true"></iframe>
                 </div>
             </div>
             <div id="panel-closed">
