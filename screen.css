@@ -1,0 +1,15 @@
+body
+{
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+	padding-top: 100px;
+	padding-left: 150px;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+#splashScreen
+{
+	width: 400px;
+}

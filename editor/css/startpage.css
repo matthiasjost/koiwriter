@@ -1,0 +1,57 @@
+ #splashScreen
+{
+    margin: auto;
+    width: 750px;
+}
+@import url("http://fonts.googleapis.com/css?family=Vollkorn&subset=latins"); 
+body
+{
+    padding: 0px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-family: 'Vollkorn', arial, serif;
+    text-align: center;
+}
+h1
+{
+    color: #444;
+    margin: 0;
+    padding: 10px 0px 6px 0px;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: bold;
+    text-align: justify;
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    line-height: 145%;
+    font-variant: small-caps;
+    
+}
+a, p 
+{
+    color: #424242;
+    font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+    letter-spacing:0.1em;
+    margin: 40px auto;
+    margin-top: 10px;
+    text-transform: lowercase;
+    line-height: 145%;
+    font-size: 14pt;
+    font-variant: small-caps;
+    text-align: justify;
+}
+img
+{
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    margin-right: 20px;
+}
+#credits p,a
+{
+    font-size: 14pt;
+}
+#StartEditor
+{
+	font-size: 15pt;
+}

@@ -1,0 +1,123 @@
+.icon
+{
+	height: 30px;
+	width: 33px;
+	margin-bottom: 5px;
+	border: 5px solid white;
+	font-size: 23px;
+	padding-top: 3px;
+}
+.active
+{
+	background-image: url(../images/icons/white.png);
+}
+.inactive
+{
+	background-image: url(../images/icons/black.png);
+	border: 5px solid #0f0f0f;
+	background-color: #0f0f0f;
+}
+.white-bg
+{
+	background-color: white;
+}
+.icon-font
+{
+	background-position: 0px 0px;
+}
+.icon-selected
+{
+	background-position: -33px 0px;
+}
+.icon-paragraph
+{
+	background-position: -66px 0px;
+}
+.icon-background
+{
+	background-position: -99px 0px;
+}
+.icon-save
+{
+	background-position: -132px 0px;
+}
+.icon-regular
+{
+	background-position: 0px -33px;
+}
+.icon-bold
+{
+	background-position: -33px -33px;
+}
+.icon-italic
+{
+	background-position: -66px -33px;
+}
+.icon-bolditalic
+{
+	background-position: -99px -33px;
+}
+.icon-underlined
+{
+	background-position: -132px -33px;
+}
+.icon-p
+{
+	background-position: -0px -66px;
+}
+.icon-h1
+{
+	background-position: -33px -66px;
+}
+.icon-h2
+{
+	background-position: -66px -66px;
+}
+.icon-h3
+{
+	background-position: -99px -66px;
+}
+.icon-bulletedlist
+{
+	background-position: -132px -66px;
+}
+.icon-numberedlist
+{
+	background-position: -165px -66px;
+}
+.icon-plus
+{
+	background-position: -0px -99px;
+}
+.icon-minus
+{
+	background-position: -33px -99px;
+}
+.icon-textalignleft
+{
+	background-position: -66px -99px;
+}
+.icon-textaligncentered
+{
+	background-position: -99px -99px;
+}
+.icon-textalignright
+{
+	background-position: -132px -99px;
+}
+.icon-textalignjustify
+{
+	background-position: -165px -99px;
+}
+.icon-smallwidth
+{
+	background-position: -197px -99px;
+}
+.icon-mediumwidth
+{
+	background-position: -230px -99px;
+}
+.icon-widewidth
+{
+	background-position: -263px -99px;
+}

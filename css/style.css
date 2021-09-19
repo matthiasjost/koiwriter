@@ -1,0 +1,149 @@
+/* copyright 2011 Simon Siegenthaler */
+body
+{
+	padding-top: 0px;
+	margin-top: 0px;
+	font-size: 15px;
+	font-family: arial, sans-serif;
+	position: relative;
+	background: url(../editor/images/bg/4-full.jpg);
+	
+}
+ul
+{
+	color: white;
+	list-style-type: disc;
+	font-size: 12px;
+	font-family: arial, sans-serif;
+	margin-left: 0px;
+	padding-left: 12px;
+}
+li
+{
+	margin-left: 0px;
+	margin-bottom: 5px;
+	margin-left: 15px;	
+}
+a
+{
+	text-decoration: none;
+}
+a, a:visited, a:hover, a:visited
+{
+	color: white;
+}
+p a
+{
+	text-decoration: underline;
+}
+.center-accordion
+{
+	width: 382px;
+	/* unterste kategorie hat sonst eine weisse l�cke */
+	position: absolute;
+	bottom: -850px;
+	left: 50%;
+	margin-left: -150px;
+}
+.accordion-wrapper
+{
+}
+#wrapper-logo
+{
+	background-image: url(../img/wrapper-bg.png);	
+	position: relative;
+}
+#wrapper-logo img
+{
+	margin-left: 9px;
+	position: relative;
+	z-index: 1;
+}
+#wrapper-logo p
+{
+	position: absolute;
+	left: 150px;
+	top: 56px;
+	z-index: 2;
+	margin: 0;
+	margin-right: 20px;
+}
+#accordion
+{
+	width: 362px;
+	padding: 0 10px 1px 10px;
+	background-image: url(../img/wrapper-bg.png);	
+}
+#starteditor
+{
+	width: 362px;
+	padding: 0 10px 1px 10px;
+	background-image: url(../img/wrapper-bg.png);	
+	text-align: center;
+}
+#starteditorbutton
+{
+	height: 70px;
+	text-align: center;
+	border: 1px solid #303030;
+	border-bottom: 1px solid #0b0b0b;
+	border-right: 1px solid #0b0b0b;
+	background-image: url(../img/h3-bg.png);		
+}
+h1, h2, h3
+{
+	font-family: 'Droid Serif', arial, serif;	
+}
+h3, p, a
+{
+	margin: 0px;
+	color: white;
+	
+}
+h1, h3 a
+{
+	color: white!important;
+	line-height: 70px;
+	padding: 15px;
+	font-weight: normal;
+}
+p
+{
+	margin: 15px;
+	font-size: 12px;
+	line-height: 20px;
+	color: #cecece;
+	text-align: justify;
+	letter-spacing: 1px;
+}
+hr
+{
+	border: 0px; 
+	border-bottom: 1px solid #707070;
+	width: 80%;
+}
+.wrapper-top
+{
+	background-image: url(../img/wrapper-top.png);	
+	height: 14px;
+	width: 382px;
+	display: block;
+}
+.wrapper-bottom
+{
+	background-image: url(../img/wrapper-bottom.png);	
+	height: 13px;
+	width: 382px;
+	display: block;
+}
+
+/* Style accordion */
+.ui-accordion-header
+{
+	height: 70px;
+	text-align: center;
+	border: 1px solid #303030;
+	border-bottom: 1px solid #0b0b0b;
+	border-right: 1px solid #0b0b0b;
+	background-image: url(../img/h3-bg.png);	
+}

@@ -1,0 +1,10 @@
+.h-center
+{
+	display: inline-block;
+}
+
+.hand
+{
+	cursor: pointer;
+	cursor: hand;
+}
